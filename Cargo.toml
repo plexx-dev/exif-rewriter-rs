@@ -1,0 +1,11 @@
+[package]
+name = "exif-rewriter-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+clap = { version = "4.5.40"}
+ clap_derive = { version = "4.0.0-rc.1" }
+kamadak-exif = "0.6.1"
+walkdir = "2.5.0"
