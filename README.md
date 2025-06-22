@@ -1,4 +1,4 @@
-# exif-rewriter-rs
+# exif-rewriter-rs 🚀
 
 A Rust CLI tool to rename image files (JPG, JPEG) based on the DateTimeOriginal EXIF metadata. Renamed files will follow the format:
 
